@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-permalink: /home/
+# permalink: /home/
 # title: SHAREWARE RECS
 ---
 
@@ -12,8 +12,8 @@ permalink: /home/
 		<div class="menu">
 		<ul>
 	    	<li class="page_title">SHAREWARE RECS</li>
-			<li><a href="/home/">/home</a></li>
-			<li><a href="/contact/">/contact</a></li>
+			<li><a href="index.html">/home</a></li>
+			<li><a href="contact.html">/contact</a></li>
 		</ul>
 		</div>
 	</header>
