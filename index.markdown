@@ -3,7 +3,19 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+permalink: /home/
+# title: SHAREWARE RECS
 ---
+<head>
+<div class="menu">
+    <ul>
+      <li class="page_title">SHAREWARE RECS</li>
+<li><a href="/home/">/home</a></li>
+<li><a href="/contact/">/contact</a></li>
+</ul>
+</div>
+</head>
+<body>
 <img src="https://f4.bcbits.com/img/0023351340_100.png" alt="SHAREWARE RECS" width="100%">
 
 <p>
@@ -16,3 +28,4 @@ layout: home
 	EST 2021
 </p>
 
+</body>
