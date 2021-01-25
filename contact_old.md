@@ -14,7 +14,7 @@ layout: page
 		</div>
 	</header>
 
-<img src="https://f4.bcbits.com/img/0023351340_100.png" alt="SHAREWARE RECS" width="100%">
+<img class="home_header" src="https://f4.bcbits.com/img/0023351340_100.png" alt="SHAREWARE RECS" width="100%"><h1 id="shareware_recs">SHAREWARE RECS</h1>
 
 <p>
 	<h1>CONTACT US</h1>
