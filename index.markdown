@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img src="https://f4.bcbits.com/img/0023351340_100.png" alt="SHAREWARE RECS" width="700px">
+<img src="https://f4.bcbits.com/img/0023351340_100.png" alt="SHAREWARE RECS" width="100%">
 
 <p>
 	<h1>OUR PHILOSOPHY</h1>
